@@ -9,7 +9,7 @@
     "react-scripts": "2.1.1",
     "react-uid": "^2.2.0"
   },
-  "homepage": "https://whitneyburton.github.io/gameflix/",
+  "homepage": "https://JustinD85.github.io/gameflix/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
