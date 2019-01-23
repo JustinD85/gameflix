@@ -7,7 +7,7 @@ GameFlix is where you'll discover your new favorite game to bring to the table. 
 ## Set-up
 
 Clone down this repo: 
-` git clone https://github.com/whitneyburton/gameflix.git`
+` git clone https://github.com/JustinD85/gameflix.git`
 
 Change into the directory
 
@@ -20,7 +20,7 @@ To run tests:
 ` npm test `
 
 ## Live App
-https://whitneyburton.github.io/gameflix/
+https://JustinD85.github.io/gameflix/
 
 ## Wireframes
 ![img_1551](https://user-images.githubusercontent.com/33883645/50619675-e24cd180-0eb7-11e9-860b-786cafe1be3d.JPG)
